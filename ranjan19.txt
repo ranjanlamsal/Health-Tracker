@@ -1,0 +1,11 @@
+Name:  Ranjan Lamsal
+Age: 21 years
+Gender: M
+User id: ranjan19
+User id created at 2021-06-16 23:20:48.453285
+Below is your entered data: 
+
+
+
+food : Mashu bhat at 2021-06-16 23:20:58.562467
+Mental Health: Felt happy at 2021-06-16 23:23:45.476778

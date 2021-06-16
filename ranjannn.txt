@@ -1,0 +1,11 @@
+Name:  Ranjannnn
+Age: 21
+Gender: m
+User id: ranjannn
+User id created at 2021-06-16 23:34:50.767231
+
+
+Below is your entered data: 
+
+
+Exercise : Pushups at 2021-06-16 23:34:59.210675
